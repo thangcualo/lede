@@ -25,8 +25,8 @@ on:
 permissions:
   contents: write
 env:
-  REPO_URL: https://github.com/coolsnowwolf/lede.git
-  REPO_BRANCH: master
+  REPO_URL: https://github.com/thangcualo/lede
+  REPO_BRANCH: snapshot
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: .config-gdock
   DIY_P1_SH: diy-part1.sh
